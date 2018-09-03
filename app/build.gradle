@@ -7,8 +7,6 @@ android {
         minSdkVersion 15
         targetSdkVersion 27
         versionCode 1
-
-        sdfsd
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
